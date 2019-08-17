@@ -1,5 +1,12 @@
 ![NexMon logo](https://github.com/seemoo-lab/nexmon/raw/master/gfx/nexmon.png)
+<hr>
 
+2019/08/17 07:21AM Douglas Goodall (dwg)
+This version is working with the Raspberry Pi 4 (4GB ver). Some tweaks required as usual.
+I added my initials to the version string returned by "nexutil -V" for verification that
+my changes were indeed taking as intended.
+
+<hr>
 # What is nexmon?
 Nexmon is our C-based firmware patching framework for Broadcom/Cypress WiFi chips 
 that enables you to write your own firmware patches, for example, to enable monitor
