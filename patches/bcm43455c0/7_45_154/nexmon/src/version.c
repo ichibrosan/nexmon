@@ -37,7 +37,7 @@
 #include <firmware_version.h>   // definition of firmware version macros
 #include <patcher.h>            // macros used to craete patches such as BLPatch, BPatch, ...
 
-char version[] = "7.45.154 (nexmon.org: " GIT_VERSION "-" BUILD_NUMBER ")";
+char version[] = "7.45.154 dwg (nexmon.org: " GIT_VERSION "-" BUILD_NUMBER ")";
 char date[] = __DATE__;
 char time[] = __TIME__;
 
